@@ -3,6 +3,8 @@ I'm Juan Carlos Ubaldo, a programming student at the Universidad Politécnica de
 
 Languages and Tools
 
+https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+
 About Me
 🌱 I’m currently learning more about full-stack development.
 
