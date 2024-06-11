@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+<div style="text-align: justify">
 I'm Juan Carlos Ubaldo, a programming student at the Universidad Politécnica de Sinaloa. I am passionate about learning and growing in my field, and I have a strong problem-solving ability. I am currently studying and working with various programming languages, frameworks, and database management systems.
+</div>
 
 ### Frameworks and Libraries
 
@@ -42,12 +44,6 @@ I'm Juan Carlos Ubaldo, a programming student at the Universidad Politécnica de
 
 📫 How to reach me: juanubaldo2@gmail.com
 
-💻 [Programming](#)
-
-♟️ [Playing chess](#)
- 
-🎹 [Playing the piano](#)
-  
-🏋️ [Exercising](#)
+🎮 Hobbies: 💻Programming, ♟️playing chess, 🎹 playing the piano, 🏋️ exercising.
 
 Feel free to explore my repositories and projects. I'm always open to collaborating and learning from others in the community.
