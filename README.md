@@ -44,6 +44,6 @@ I'm Juan Carlos Ubaldo, a programming student at the Universidad Politécnica de
 
 📫 How to reach me: juanubaldo2@gmail.com
 
-🎮 Hobbies: 💻Programming, ♟️playing chess, 🎹 playing the piano, 🏋️ exercising.
+🎮 Hobbies: 💻Programming, ♟️Playing chess, 🎹 Playing the piano, 🏋️ Exercising.
 
 Feel free to explore my repositories and projects. I'm always open to collaborating and learning from others in the community.
