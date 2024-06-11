@@ -3,19 +3,10 @@ I'm Juan Carlos Ubaldo, a programming student at the Universidad Politécnica de
 
 Languages and Tools
 
-
-
-
-
-
-
-
-
-
 About Me
 🌱 I’m currently learning more about full-stack development.
 🔭 I’m enthusiastic about enhancing my skills and knowledge in web development.
-📫 How to reach me: [Your Email]
+📫 How to reach me: juanubaldo2@gmail.com
 Feel free to explore my repositories and projects. I'm always open to collaborating and learning from others in the community.
 
 <!--
