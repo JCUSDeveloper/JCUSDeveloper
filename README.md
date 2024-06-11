@@ -1,4 +1,22 @@
-## Hi there 👋
+Hi there 👋
+I'm Juan Carlos Ubaldo, a programming student at the Universidad Politécnica de Sinaloa. I am passionate about learning and growing in my field, and I have a strong problem-solving ability. I am currently studying and working with various programming languages, frameworks, and database management systems.
+
+Languages and Tools
+
+
+
+
+
+
+
+
+
+
+About Me
+🌱 I’m currently learning more about full-stack development.
+🔭 I’m enthusiastic about enhancing my skills and knowledge in web development.
+📫 How to reach me: [Your Email]
+Feel free to explore my repositories and projects. I'm always open to collaborating and learning from others in the community.
 
 <!--
 **JCUSDeveloper/JCUSDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
