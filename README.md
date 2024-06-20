@@ -7,6 +7,8 @@ I'm Juan Carlos Ubaldo, a programming student at the Universidad Politécnica de
 ### Frameworks and Libraries
 
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ### Languages
 
