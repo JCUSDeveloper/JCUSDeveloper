@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="100"/>
+ <iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>
 </div>
 
 <div style="text-align: justify">
