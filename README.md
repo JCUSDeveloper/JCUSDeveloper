@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-   <img src="https://media.tenor.com/images/33bfb5f6f829c09b154e24fda0b089ba/tenor.gif" width="300"/>
+   <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
 </div>
 
 <div style="text-align: justify">
