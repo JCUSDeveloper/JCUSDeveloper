@@ -5,7 +5,7 @@
 </div>
 
 <div style="text-align: justify">
-I'm **Juan Carlos Ubaldo**, a programming student at the Universidad Politécnica de Sinaloa. I am passionate about learning and growing in my field, and I have a strong problem-solving ability. I am currently studying and working with various programming languages, frameworks, and database management systems.
+I'm Juan Carlos Ubaldo Sánchez, a programming student at the Universidad Politécnica de Sinaloa. I am passionate about learning and growing in my field, and I have a strong problem-solving ability. I am currently studying and working with various programming languages, frameworks, and database management systems.
 </div>
 
 ---
