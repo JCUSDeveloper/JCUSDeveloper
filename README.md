@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
- <img src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="300"/>
+ <img src="[https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7](https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7)" width="300"/>
 </div>
 
 <div style="text-align: justify">
